@@ -1,0 +1,7 @@
+{
+  "name": "WA-Sheet Intelligence Hub",
+  "description": "A sophisticated dashboard for managing WhatsApp bot integrations with Google Sheets, utilizing Gemini AI to extract structured data from natural language conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
